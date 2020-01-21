@@ -12,7 +12,7 @@ A tabela abaixo mostra um resumo (e recomendações!) de atividades que devem se
 
 | Tarefa  | Quando fazer | Onde fazer | Pré-requisitos |
 | ------------- | ------------- |------------- | ------------- |
-| Comprar ticket de transporte público (Oyster card)  | Nos primeiros dias | Na maioria das estações de metrô/trem ou "corner shops" | Nenhum. Ver "[Transporte público](/pages/transporte-publico.md)"
+| Comprar ticket de transporte público (Oyster card)  | Nos primeiros dias | Na maioria das estações de metrô/trem ou "corner shops" | Dinheiro ou cartão
 | Comprar um número de telefone (pré-pago)  | Pode ser feito nos primeiros dias ou até antes de chegar  | Em qualquer loja de telefonia ou mercados (Recomendadas: Three, GiffGaff) | Para pré pago não é necessario documento
 | Abrir uma conta bancária  | Nos primeiros dias  | No banco de sua escolha (Recomendados: Monzo, Lloyds, Barclays)  | Passaporte e comprovante de residência
 | Aplicar para o National Insurance Number (NINo)  | Nos primeiros dias | É necessário ligar para agendar entrevista em um Job Centre | Passaporte
